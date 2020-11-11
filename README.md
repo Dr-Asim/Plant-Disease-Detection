@@ -7,3 +7,6 @@ https://www.kaggle.com/abdallahalidev/plantvillage-dataset/version/1
 
 ## Link for Research Paper
 https://www.preprints.org/manuscript/202009.0142/v3
+
+## For Citation
+Khan, A.; Nawaz, U.; Ulhaq, A.;Paul, M.; Robinson, R.W. Real-Time Plant Health Assessment via implementing Cloud-Based Scalable Transfer Learning on AWS DeepLens. Preprints 2020, 2020090142 (doi: 10.20944/preprints202009.0142.v3).
